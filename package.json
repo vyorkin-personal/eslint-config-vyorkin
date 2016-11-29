@@ -1,10 +1,10 @@
 {
   "name": "eslint-config-vyorkin",
-  "version": "0.0.0-semantically-released",
+  "version": "0.0.0-development",
   "description": "ESLint rules according to vyorkin's personal preference",
   "main": "index.js",
   "repository": {
-    "url": "git@github.com:vyorkin-personal/eslint-config-vyorkin.git",
+    "url": "https://github.com/vyorkin-personal/eslint-config-vyorkin.git",
     "type": "git"
   },
   "keywords": [
