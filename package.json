@@ -1,0 +1,50 @@
+{
+  "name": "eslint-config-vyorkin",
+  "version": "0.0.0-semantically-released",
+  "description": "ESLint rules according to vyorkin's personal preference",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:vyorkin-personal/eslint-config-vyorkin.git",
+    "type": "git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "vyorkin",
+    "javascript",
+    "styleguide"
+  ],
+  "author": "Vasiliy Yorkin <vasiliy.yorkin@gmail.com> (https://github.com/vyorkin)",
+  "license": "WTFPL",
+  "peerDependencies": {
+    "eslint": "^3.11.1"
+  },
+  "devDependencies": {
+    "commitizen": "^2.8.6",
+    "cz-conventional-changelog": "^1.2.0",
+    "eslint": "^3.11.1",
+    "eslint-find-rules": "^1.14.3",
+    "husky": "^0.11.9",
+    "npm-run-all": "^3.1.1",
+    "semantic-release": "^6.3.2",
+    "validate-commit-msg": "^2.8.2"
+  },
+  "dependencies": {
+    "babel-eslint": "^7.1.1",
+    "eslint-config-airbnb": "^13.0.0",
+    "eslint-plugin-ava": "^4.0.0",
+    "eslint-plugin-flowtype": "^2.28.2",
+    "eslint-plugin-fp": "^2.2.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^3.0.1",
+    "eslint-plugin-lodash-fp": "^2.1.3",
+    "eslint-plugin-prefer-object-spread": "^1.1.0",
+    "eslint-plugin-promise": "^3.4.0",
+    "eslint-plugin-react": "^6.7.1",
+    "eslint-plugin-security": "^1.2.0",
+    "eslint-plugin-tape": "^1.1.0",
+    "eslint-plugin-typescript": "^0.1.0",
+    "typescript-eslint-parser": "^1.0.0"
+  }
+}
