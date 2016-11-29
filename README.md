@@ -1,8 +1,8 @@
 # eslint-config-vyorkin
 
 [![travis build](https://img.shields.io/travis/vyorkin-personal/eslint-config-vyorkin.svg?style=flat-square)](https://travis-ci.org/vyorkin-personal/eslint-config-vyorkin)
-[![version](https://img.shields.io/npm/v/vyorkin.svg?style=flat-square)](http://npm.im/vyorkin)
-[![downloads](https://img.shields.io/npm/dm/vyorkin.svg?style=flat-square)](http://npm-stat.com/charts.html?package=vyorkin&from=2016-12-01)
+[![version](https://img.shields.io/npm/v/eslint-config-vyorkin.svg?style=flat-square)](http://npm.im/eslint-config-vyorkin)
+[![downloads](https://img.shields.io/npm/dm/eslint-config-vyorkin.svg?style=flat-square)](http://npm-stat.com/charts.html?package=eslint-config-vyorkin&from=2016-12-01)
 [![travis build](https://img.shields.io/travis/vyorkin-personal/eslint-config-vyorkin.svg?style=flat-square)](https://travis-ci.org/vyorkin-personal/eslint-config-vyorkin)
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg?style=flat-square)](https://github.com/semantic-release/semantic-release)
 
