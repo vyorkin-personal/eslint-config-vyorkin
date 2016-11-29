@@ -15,4 +15,4 @@ module.exports = {
     'security/detect-object-injection': 1,
     'security/detect-new-buffer': 1,
   },
-}
+};

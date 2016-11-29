@@ -3,4 +3,4 @@ module.exports = {
   plugins: ['ava'],
   rules: {
   },
-}
+};

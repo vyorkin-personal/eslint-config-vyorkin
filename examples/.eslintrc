@@ -1,0 +1,7 @@
+{
+  "extends": [
+    "../index.js",
+    "../react.js",
+    "../flow.js"
+  ]
+}

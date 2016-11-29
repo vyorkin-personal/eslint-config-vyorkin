@@ -4,7 +4,7 @@ module.exports = {
     node: true,
   },
   extends: [
-    'airbnb/base',
+    'airbnb',
     './base.js',
     './comments.js',
     './import.js',
@@ -12,9 +12,9 @@ module.exports = {
     './fp.js',
   ],
   globals: {
-    '__COMMITHASH__': true,
-    '__ENV__': true,
-    '__DEVELOPMENT__': true,
-    '__PRODUCTION__': true,
-  }
-}
+    __COMMITHASH__: true,
+    __ENV__: true,
+    __DEVELOPMENT__: true,
+    __PRODUCTION__: true,
+  },
+};

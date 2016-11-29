@@ -6,6 +6,6 @@ module.exports = {
     'eslint-comments/no-unlimited-disable': 2,
     'eslint-comments/no-unused-disable': 2,
     'eslint-comments/no-unused-enable': 2,
-    'eslint-comments/no-use': 2,
-  }
-}
+    'eslint-comments/no-use': 0,
+  },
+};

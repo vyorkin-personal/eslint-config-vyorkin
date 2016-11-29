@@ -8,4 +8,4 @@ module.exports = {
     'fp/no-mutation': 0,
     'fp/no-unused-expression': 0,
   },
-}
+};

@@ -8,7 +8,7 @@ module.exports = {
       args: 'after-used',
       argsIgnorePattern: '^_',
     }],
-    'semi': ['error', 'always'],
+    semi: ['error', 'always'],
     'new-cap': [2, {
       capIsNew: false,
       newIsCap: true,
@@ -21,4 +21,4 @@ module.exports = {
   globals: {
     NODE_ENV: true,
   },
-}
+};
