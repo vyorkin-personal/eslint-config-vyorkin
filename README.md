@@ -97,4 +97,4 @@ Here is the list of various personal configs I am aware of:
 
 ## LICENSE
 
-WTFPL
+[WTFPL](http://www.wtfpl.net/) – Do What the Fuck You Want to Public License.

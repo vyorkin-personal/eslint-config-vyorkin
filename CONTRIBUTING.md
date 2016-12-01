@@ -9,7 +9,7 @@ To contribute to the project, please follow these steps:
 5. Run `npm start`
 6. Make your changes
 7. Run `git add -A` to add your changes
-8. Run `npm run commit` (**Do not** use `git commit`)
+8. Run `make commit` (**Do not** use `git commit`)
 9. Push your changes with `git push`
 10. Create the Pull Request
 11. Get merged and celebrate!
